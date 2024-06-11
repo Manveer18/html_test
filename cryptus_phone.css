@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  width: 100em;
+}
+
+main{
+  width: 100em;
+}
+
+footer{
+  width: 100em;
+}
